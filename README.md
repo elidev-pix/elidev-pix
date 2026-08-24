@@ -54,7 +54,7 @@ Mon objectif : construire des solutions numériques modernes, utiles, et pensée
 ### 🤝 Solidarity Group
 Plateforme web dédiée à une organisation solidaire, permettant de présenter ses activités, gérer les membres, les événements, les contributions, et faciliter la participation aux différentes initiatives.
 
-**Stack principale :** PHP · Laravel · MySQL
+**Stack principale :** React.Js · Shadcn · Supabase
 
 🔗 [Voir la démo](https://solidarity-app-two.vercel.app/) · 💻 [Code source](https://github.com/elidev-pix/solidarity-app)
 
@@ -63,7 +63,7 @@ Plateforme web dédiée à une organisation solidaire, permettant de présenter 
 ### 🌦️ Real-Time Weather App
 Application web permettant de consulter les conditions météorologiques en temps réel grâce à une API météo.
 
-**Stack principale :** JavaScript · React · API météo
+**Stack principale :** React.Js · TailwindCss · API météo
 
 🔗 [Voir la démo](https://weather-react-api-smoky.vercel.app/) · 💻 [Code source](https://github.com/elidev-pix/weather-react-api)
 
