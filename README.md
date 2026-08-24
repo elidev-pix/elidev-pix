@@ -1,4 +1,6 @@
-<h1 align="center">Salut, je suis Eliel SAWADOGO 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Eliel+Rodrigue+SAWADOGO+%F0%9F%91%8B" alt="Typing animation" />          
+</h1>
 
 <p align="center">
   <b>Développeur Web Full-Stack</b> · Étudiant en Télécommunications & Informatique · Ouagadougou 🇧🇫
