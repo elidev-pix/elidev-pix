@@ -27,6 +27,8 @@ Mon objectif : construire des solutions numériques modernes, utiles, et pensée
 
 ## 🛠️ Stack technique
 
+<div align="center">
+
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend skills" />
@@ -46,6 +48,8 @@ Mon objectif : construire des solutions numériques modernes, utiles, et pensée
 **Outils & DevOps**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vite,npm,postman,vscode,idea,ubuntu" alt="Tools and DevOps skills" />
+
+</div>
 
 ---
 
