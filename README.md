@@ -45,7 +45,7 @@ Mon objectif : construire des solutions numériques modernes, utiles, et pensée
 
 **Outils & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vite,npm,composer" alt="Tools and DevOps skills" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vite,npm,composer,postman,vscode,idea,ubuntu" alt="Tools and DevOps skills" />
 
 ---
 
