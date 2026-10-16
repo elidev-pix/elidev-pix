@@ -37,7 +37,7 @@ Mon objectif : construire des solutions numériques modernes, utiles, et pensée
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=laravel,java,python" alt="Backend skills" />
+<img src="https://skillicons.dev/icons?i=laravel,spring,java,python" alt="Backend skills" />
 
 **Bases de données**
 
