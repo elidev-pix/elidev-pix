@@ -33,11 +33,11 @@ Mon objectif : construire des solutions numériques modernes, utiles, et pensée
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend skills" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" alt="Frontend skills" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java,python" alt="Backend skills" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,java,python" alt="Backend skills" />
 
 **Bases de données**
 
@@ -60,7 +60,7 @@ Mon objectif : construire des solutions numériques modernes, utiles, et pensée
 ### 🤝 Solidarity Group
 Plateforme web dédiée à une organisation solidaire, permettant de présenter ses activités, gérer les membres, les événements, les contributions, et faciliter la participation aux différentes initiatives.
 
-**Stack principale :** React.Js · Shadcn · Supabase
+**Stack principale :** React.Js · Shadcn · MongoDB
 
 🔗 [Voir la démo](https://solidarity-app-two.vercel.app/) · 💻 [Code source](https://github.com/elidev-pix/solidarity-app)
 
